@@ -1,0 +1,12 @@
+﻿body {
+    background-color: rgba(41, 175, 212, 0.25);
+    font-family: Calibri;
+    font-size: medium;
+}
+
+.botao {
+    font-family: Cambria;
+    font-size: small;
+    font-weight: 500;
+    background-color: #eeccfe;
+}
